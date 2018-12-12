@@ -1,0 +1,10 @@
+{
+  "id": "dksmechanics",
+  "name": "Dark Souls Mechanics",
+  "authors": [
+    "TankMissile"
+  ],
+  "listeners": [
+    "org.tankmissile.dksmechanics.DarkSoulsMechanics"
+  ]
+}
